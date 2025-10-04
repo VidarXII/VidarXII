@@ -12,5 +12,5 @@ also you could just listen around for a very clumsy person, its probably me
 
 Pronouns: He/Him
 
-Fun fact: I don't use ChatGPT while doing anything creative, so I am 100% responsible for all of these and the github.io page itself
+Fun fact: I don't use ChatGPT while doing anything creative, so I am 100% responsible for your mind twisting reading all this
 
