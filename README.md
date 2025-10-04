@@ -5,7 +5,7 @@ I’m currently learning CFD (computational fluid dynamics) and real analysis, a
 
 I’m looking to collaborate on anything that involves a ton of math, be it game theory, machine learning theory, control systems or anything new and interesting
 
-Ask me about 70s rock recommendations or my spotify playlist (hint: I love Wish you were Here)
+Ask me about 70s rock recommendations or my spotify playlist (btw I love Wish you were Here)
 
 How to reach me: nishant_p@me.iitr.ac.in
 also you could just listen around for a very clumsy person, its probably me
