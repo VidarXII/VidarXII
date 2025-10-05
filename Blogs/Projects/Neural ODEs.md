@@ -147,10 +147,10 @@ pred_y = integrate_with_params(self.func, y0_train, params, t_train, input_dim, 
 ## Results
 During training, the model learned to approximate spiral trajectories accurately. However, when tested on unseen spirals, performance decreased—suggesting overfitting and poor generalization.
 
-![Training data]("Assets/Training_data.png")  
+![Training data](Assets/Training_data.png)  
 *Neural ODE trajectory vs actual data during training and validation.*
 
-![Testing data]("Assets/testing_data.png")  
+![Testing data](Assets/testing_data.png)  
 *Neural ODE predictions vs true spiral trajectories during testing.*
 
 ---
