@@ -150,7 +150,7 @@ During training, the model learned to approximate spiral trajectories accurately
 ![Training data]("Assets/Training_data.png")  
 *Neural ODE trajectory vs actual data during training and validation.*
 
-![Testing data]("Assets/Testing_data.png")  
+![Testing data]("Assets/testing_data.png")  
 *Neural ODE predictions vs true spiral trajectories during testing.*
 
 ---
